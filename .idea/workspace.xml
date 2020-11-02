@@ -20,14 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="917d89a7-99df-4285-9b11-dee498dbd3a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/WIA/php7/createCatalogs.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WIA/php7/createFile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WIA/php7/deleteFile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WIA/php7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WIA/php7/ls.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WIA/php7/rename.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WIA/php7/saveToFile.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WIA/php7/ls.php" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php7/ls.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604266306910</updated>
       <workItem from="1604266309194" duration="8311000" />
-      <workItem from="1604319467690" duration="2888000" />
+      <workItem from="1604319467690" duration="3632000" />
     </task>
     <servers />
   </component>
