@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="917d89a7-99df-4285-9b11-dee498dbd3a5" name="Default Changelist" comment="" />
+    <list default="true" id="917d89a7-99df-4285-9b11-dee498dbd3a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/WIA/php7/createCatalogs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php7/createFile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php7/deleteFile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php7/ls.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php7/rename.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php7/saveToFile.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +48,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jhpihCtAyuaAtxxDGu8Z9dH8bK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,20 +80,40 @@
       <option name="presentableId" value="Default" />
       <updated>1604266306910</updated>
       <workItem from="1604266309194" duration="8311000" />
+      <workItem from="1604319467690" duration="2888000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="79" y="379" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604273512648">
       <screen x="0" y="0" width="2498" height="1440" />
     </state>
     <state x="79" y="379" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2498.1440/-1280.1135.1280.1024@0.0.2498.1440" timestamp="1604273512648" />
-    <state x="1134" y="686" key="NewPhpFileDialog" timestamp="1604268885356">
+    <state x="374" y="526" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604321276923">
       <screen x="0" y="0" width="2498" height="1440" />
     </state>
-    <state x="1134" y="686" key="NewPhpFileDialog/0.0.2498.1440/-1280.1135.1280.1024@0.0.2498.1440" timestamp="1604268885356" />
+    <state x="374" y="526" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2498.1440/-1280.1135.1280.1024@0.0.2498.1440" timestamp="1604321276923" />
+    <state x="356" y="471" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604320079770">
+      <screen x="0" y="0" width="2498" height="1440" />
+    </state>
+    <state x="356" y="471" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2498.1440/-1280.1135.1280.1024@0.0.2498.1440" timestamp="1604320079770" />
+    <state x="1134" y="686" key="NewPhpFileDialog" timestamp="1604320072428">
+      <screen x="0" y="0" width="2498" height="1440" />
+    </state>
+    <state x="1134" y="686" key="NewPhpFileDialog/0.0.2498.1440/-1280.1135.1280.1024@0.0.2498.1440" timestamp="1604320072428" />
   </component>
 </project>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Działania na katalogach i plikach</title>
+</head>
+<body>
+<fieldset>
+<form method="post" action="createFile.php">
+    <input type="text" placeholder="filename" name="filename">
+    <button type="submit">Create</button>
+</form>
+</fieldset>
+<br>
+<fieldset>
+<form method="post" action="deleteFile.php">
+    <input type="text" placeholder="file name" name="filename">
+    <button type="submit">Delete</button>
+</form>
+</fieldset>
+<br>
+<fieldset>
+<form method="post" action="rename.php">
+    <input type="text" placeholder="filename" name="filename">
+    <input type="text" placeholder="new name" name="newName">
+    <button type="submit">Rename</button>
+</form>
+</fieldset>
+<br>
+<fieldset>
+<form method="post" action="createCatalogs.php">
+    <input type="text" placeholder="catalog one" name="catalogOne">
+    <input type="text" placeholder="catalog two" name="catalogTwo">
+    <button type="submit">Create Catalogs</button>
+</form>
+</fieldset>
+<br>
+<fieldset>
+<form method="post" action="saveToFile.php">
+    <input type="text" placeholder="filename" name="filename"><br>
+    <textarea name="content" placeholder="Enter text"></textarea><br>
+    <button type="submit">Save</button>
+</form>
+</fieldset>
+<br>
+<form method="post" action="ls.php">
+    <button type="submit">Show Content</button>
+</form>
+</body>
+</html>
