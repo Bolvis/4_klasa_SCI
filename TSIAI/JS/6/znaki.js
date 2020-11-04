@@ -1,7 +1,6 @@
 function znaki(typPola = "input"){
-    document.getElementById("pole1").innerHTML = "";
-    document.getElementById("pole2").innerHTML = "";
-    document.getElementById("pole3").innerHTML = "";
+    const divs = document.getElementsByTagName("div");
+    for(const div of divs){div.innerHTML = "";}
     const inputy = document.getElementsByTagName("input");
     for (let i = 0; i<inputy.length; i++){
         const left = inputy[i].getAttribute("maxlength") - inputy[i].value.length;
