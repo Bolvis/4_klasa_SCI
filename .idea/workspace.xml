@@ -20,8 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="917d89a7-99df-4285-9b11-dee498dbd3a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/WIA/php8/formatowanie.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php8/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php8/naglowek.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php8/sci.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php8/stopka.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php8/tresc.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php7/ls.php" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php7/ls.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +39,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -54,15 +60,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/WIA/php5" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\dawid\Desktop\4-klasa\SBD\zadanie 7" />
-      <recent name="C:\Users\dawid\Desktop\4-klasa\SBD" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\dawid\Desktop\4-klasa\WIA\php5" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dawid\Desktop\4-klasa\WIA\php8" />
+      <recent name="C:\Users\dawid\Desktop\4-klasa\SBD\zadanie 7" />
+      <recent name="C:\Users\dawid\Desktop\4-klasa\SBD" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -75,6 +83,7 @@
       <updated>1604266306910</updated>
       <workItem from="1604266309194" duration="8311000" />
       <workItem from="1604319467690" duration="3632000" />
+      <workItem from="1604874527236" duration="4442000" />
     </task>
     <servers />
   </component>
@@ -91,6 +100,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="79" y="379" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604273512648">
@@ -105,9 +115,9 @@
       <screen x="0" y="0" width="2498" height="1440" />
     </state>
     <state x="356" y="471" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2498.1440/-1280.1135.1280.1024@0.0.2498.1440" timestamp="1604320079770" />
-    <state x="1134" y="686" key="NewPhpFileDialog" timestamp="1604320072428">
+    <state x="1134" y="686" key="NewPhpFileDialog" timestamp="1604874982955">
       <screen x="0" y="0" width="2498" height="1440" />
     </state>
-    <state x="1134" y="686" key="NewPhpFileDialog/0.0.2498.1440/-1280.1135.1280.1024@0.0.2498.1440" timestamp="1604320072428" />
+    <state x="1134" y="686" key="NewPhpFileDialog/0.0.2498.1440/-1280.1135.1280.1024@0.0.2498.1440" timestamp="1604874982955" />
   </component>
 </project>

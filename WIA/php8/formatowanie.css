@@ -1,0 +1,80 @@
+body{
+    max-width: 1000px;
+    margin: auto
+}
+.naglowek{
+    height: 150px;
+    font-weight: bold;
+    font-family: "Arial";
+    color: white;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+h1{
+    background-color: red;
+    text-align: center;
+    position: relative;
+    height: 150px;
+    width: 1000px;
+    margin: 0;
+}
+
+.img1{
+    position: absolute;
+    left: 220px;
+}
+
+.img2{
+    position: absolute;
+    right: 220px;
+    top: 0;
+}
+
+p{
+    display: block;
+    margin: 0 auto;
+}
+
+.menu{
+    position: absolute;
+    background-color: yellow;
+    width: 200px;
+    height: 400px;
+}
+
+.container{
+    text-align: center;
+    position: relative;
+}
+
+.tresc{
+    position: absolute;
+    right: 0;
+    width: 800px;
+    margin: 0 auto;
+    font-family: "Times New Roman";
+    font-size: 30px;
+    color: red;
+    text-align: center;
+    background-color: mediumseagreen;
+    height: 400px;
+}
+
+footer{
+    position: relative;
+    top: 400px;
+    height: 100px;
+    font-size: 15px;
+    font-family: "Monotype Corsiva";
+    color: yellow;
+    font-weight: bold;
+    background-color: dodgerblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
