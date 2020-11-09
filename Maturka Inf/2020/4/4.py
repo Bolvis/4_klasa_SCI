@@ -1,5 +1,5 @@
 primeNums = [3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97]
-file = open("./Dane_PR2/pary.txt")
+file = open("./../Dane_PR2/pary.txt")
 wholeText = file.read()
 pairs = wholeText.split("\n")
 pairs.remove("")
@@ -50,11 +50,11 @@ def smallest():
             result = item
     print(f"{result[0]} {result[1]}")
 
-print("4.1")
+print("\n\t4.1 \n")
 for pair in pairs:
     calc_pairs(pair)
-print("4.2")
+print("\n\t4.2 \n")
 for pair in pairs:
     calc_letters(pair)
-print("4.3")
+print("\n\t4.3\n")
 smallest()
