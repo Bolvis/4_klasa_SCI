@@ -27,7 +27,7 @@ def first():
         if towar[index] > biggest:
             biggest = towar[index]
             name = index + 1
-    print("6.1 :",str(biggest) + " T" + str(name))
+    print("6.1: ",str(biggest) + " T" + str(name))
 
 
 def second():
@@ -59,8 +59,56 @@ def second():
         else:
             if 31 - int(date1[2]) + int(date2[2]) > 20:
                 num += 1
-    print("6.2 :",num)
+    print("6.2: ",num)
 
+
+def count_to_date(date):
+    towar = [0, 0, 0, 0, 0]
+    biggest = 0
+    b_name = 0
+    smallest = float("inf")
+    s_name = 0
+    for line in lines:
+        data = line.split("\t")
+        if data[0] == date:
+            break
+        if data[3] == "Z":
+            if data[2] == 'T1':
+                towar[0] += int(data[4])
+            if data[2] == 'T2':
+                towar[1] += int(data[4])
+            if data[2] == 'T3':
+                towar[2] += int(data[4])
+            if data[2] == 'T4':
+                towar[3] += int(data[4])
+            if data[2] == 'T5':
+                towar[4] += int(data[4])
+        if data[3] == "W":
+            if data[2] == 'T1':
+                towar[0] -= int(data[4])
+            if data[2] == 'T2':
+                towar[1] -= int(data[4])
+            if data[2] == 'T3':
+                towar[2] -= int(data[4])
+            if data[2] == 'T4':
+                towar[3] -= int(data[4])
+            if data[2] == 'T5':
+                towar[4] -= int(data[4])
+    for index in range(len(towar)):
+        if towar[index] > biggest:
+            biggest = towar[index]
+            b_name = index + 1
+        if smallest > towar[index] > 0:
+            smallest = towar[index]
+            s_name = index + 1
+    print("Biggest for ",date," is T" + str(b_name), "(", biggest,")")
+    print("Smallest for ", date, " is T" + str(s_name), "(", smallest, ")")
+
+def third():
+    print("6.3:")
+    count_to_date("2016-02-19")
+    count_to_date("2018-08-05")
 
 first()
 second()
+third()

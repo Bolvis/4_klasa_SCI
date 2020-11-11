@@ -1,2 +1,7 @@
-6.1 : 32 T4
-6.2 : 44
+6.1:  32 T4
+6.2:  44
+6.3:
+Biggest for  2016-02-19  is T2 ( 48 )
+Smallest for  2016-02-19  is T4 ( 24 )
+Biggest for  2018-08-05  is T5 ( 125 )
+Smallest for  2018-08-05  is T1 ( 3 )
