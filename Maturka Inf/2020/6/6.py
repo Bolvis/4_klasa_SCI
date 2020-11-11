@@ -104,6 +104,7 @@ def count_to_date(date):
     print("Biggest for ",date," is T" + str(b_name), "(", biggest,")")
     print("Smallest for ", date, " is T" + str(s_name), "(", smallest, ")")
 
+
 def third():
     print("6.3:")
     count_to_date("2016-02-19")
