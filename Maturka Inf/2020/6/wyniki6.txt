@@ -1,6 +1,6 @@
 6.1:  32 T4
-Suma za³adunków to 784
-6.2:  44
+Suma za³adunków to 905
+6.2:  22.0
 6.3:
 Biggest for  2016-02-19  is T2 ( 48 )
 Smallest for  2016-02-19  is T4 ( 24 )

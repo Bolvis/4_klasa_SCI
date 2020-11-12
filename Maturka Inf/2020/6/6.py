@@ -33,7 +33,7 @@ def first():
         if towar[index] > biggest:
             biggest = towar[index]
             name = index + 1
-    print("6.1: ",str(biggest) + " T" + str(name) + "\nSuma załadunków to " +str(sumaTowar[name]))
+    print("6.1: ",str(biggest) + " T" + str(name) + "\nSuma załadunków to " +str(sumaTowar[name-1]))
 
 
 def second():
@@ -65,7 +65,7 @@ def second():
         else:
             if 31 - int(date1[2]) + int(date2[2]) > 20:
                 num += 1
-    print("6.2: ",num)
+    print("6.2: ",num/2)
 
 
 def count_to_date(date):
