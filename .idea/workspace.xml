@@ -20,12 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="917d89a7-99df-4285-9b11-dee498dbd3a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/WIA/php8/formatowanie.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WIA/php8/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WIA/php8/naglowek.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WIA/php8/sci.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WIA/php8/stopka.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WIA/php8/tresc.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,6 +78,7 @@
       <workItem from="1604266309194" duration="8311000" />
       <workItem from="1604319467690" duration="3632000" />
       <workItem from="1604874527236" duration="4442000" />
+      <workItem from="1605179411079" duration="1096000" />
     </task>
     <servers />
   </component>
