@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6a4e82f-0f02-4d7c-ac16-c48a35671db7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/znaki.js" beforeDir="false" afterPath="$PROJECT_DIR$/znaki.js" afterDir="false" />
-    </list>
+    <list default="true" id="e6a4e82f-0f02-4d7c-ac16-c48a35671db7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604493261865</updated>
       <workItem from="1604493262885" duration="5139000" />
+      <workItem from="1605575566449" duration="24000" />
     </task>
     <servers />
   </component>
@@ -80,5 +78,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

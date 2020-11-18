@@ -116,6 +116,22 @@ def third():
     count_to_date("2016-02-19")
     count_to_date("2018-08-05")
 
+
+def fifth():
+    money = 500000
+    biggest = float("-inf")
+    biggest_date = ""
+    smallest = float("inf")
+    for line in lines:
+        line = line.split("\t")
+        money = money + (int(line[5]) * int(line[4])) if line[3] == "W" else money - (int(line[5]) * int(line[4]))
+        if biggest < money:
+            biggest = money
+            biggest_date = line[0]
+        smallest = money if smallest > money else smallest
+    print("6.5: Biggest amount " + biggest_date+": ",biggest,"\nLast day: ",money,"\nMinimal: ",500000 - smallest)
+
 first()
 second()
 third()
+fifth()
