@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="917d89a7-99df-4285-9b11-dee498dbd3a5" name="Default Changelist" comment="" />
+    <list default="true" id="917d89a7-99df-4285-9b11-dee498dbd3a5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maturka Inf/2020/6/64.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Maturka Inf/2020/6/64.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +81,7 @@
       <workItem from="1604874527236" duration="4442000" />
       <workItem from="1605179411079" duration="1096000" />
       <workItem from="1605181283433" duration="109000" />
+      <workItem from="1605704748394" duration="102000" />
     </task>
     <servers />
   </component>
