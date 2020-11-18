@@ -33,7 +33,7 @@ def first():
         if towar[index] > biggest:
             biggest = towar[index]
             name = index + 1
-    print("6.1: ",str(biggest) + " T" + str(name) + "\nSuma załadunków to " +str(sumaTowar[name-1]))
+    print("6.1:\n","T" + str(name) + "\n Suma załadunków to " + str(sumaTowar[name-1]))
 
 
 def second():
@@ -65,7 +65,7 @@ def second():
         else:
             if 31 - int(date1[2]) + int(date2[2]) > 20:
                 num += 1
-    print("6.2: ",num/2)
+    print("6.2:\n",num/2)
 
 
 def count_to_date(date):
@@ -107,8 +107,8 @@ def count_to_date(date):
         if smallest > towar[index] > 0:
             smallest = towar[index]
             s_name = index + 1
-    print("Biggest for ",date," is T" + str(b_name), "(", biggest,")")
-    print("Smallest for ", date, " is T" + str(s_name), "(", smallest, ")")
+    print(" Biggest for",date,"is T" + str(b_name), "(", biggest,")")
+    print(" Smallest for", date, "is T" + str(s_name), "(", smallest, ")")
 
 
 def third():
@@ -124,12 +124,12 @@ def fifth():
     smallest = float("inf")
     for line in lines:
         line = line.split("\t")
-        money = money + (int(line[5]) * int(line[4])) if line[3] == "W" else money - (int(line[5]) * int(line[4]))
+        money += int(line[5]) * int(line[4]) if line[3] == "W" else  -(int(line[5]) * int(line[4]))
         if biggest < money:
             biggest = money
             biggest_date = line[0]
         smallest = money if smallest > money else smallest
-    print("6.5: Biggest amount " + biggest_date+": ",biggest,"\nLast day: ",money,"\nMinimal: ",500000 - smallest)
+    print("6.5:\n Biggest amount " + biggest_date+":",biggest,"\n Last day:",money,"\n Minimal:",500000 - smallest)
 
 first()
 second()
