@@ -20,8 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="917d89a7-99df-4285-9b11-dee498dbd3a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maturka Inf/2020/6/64.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Maturka Inf/2020/6/64.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php 9/grafiki/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php 9/grafiki/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php 9/grafiki/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php 9/grafiki/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php 9/grafiki/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php 9/grafiki/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php 9/grafiki/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php 9/grafiki/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php 9/grafiki/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php 9/grafiki/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php 9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php 9/zadanie.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +62,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -82,6 +94,7 @@
       <workItem from="1605179411079" duration="1096000" />
       <workItem from="1605181283433" duration="109000" />
       <workItem from="1605704748394" duration="102000" />
+      <workItem from="1605736127649" duration="4410000" />
     </task>
     <servers />
   </component>
@@ -100,6 +113,9 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="79" y="379" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604273512648">
       <screen x="0" y="0" width="2498" height="1440" />
@@ -113,9 +129,13 @@
       <screen x="0" y="0" width="2498" height="1440" />
     </state>
     <state x="356" y="471" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2498.1440/-1280.1135.1280.1024@0.0.2498.1440" timestamp="1604320079770" />
-    <state x="1134" y="686" key="NewPhpFileDialog" timestamp="1604874982955">
+    <state x="1134" y="686" key="NewPhpFileDialog" timestamp="1605736204581">
       <screen x="0" y="0" width="2498" height="1440" />
     </state>
-    <state x="1134" y="686" key="NewPhpFileDialog/0.0.2498.1440/-1280.1135.1280.1024@0.0.2498.1440" timestamp="1604874982955" />
+    <state x="1134" y="686" key="NewPhpFileDialog/0.0.2498.1440/-1280.1135.1280.1024@0.0.2498.1440" timestamp="1605736204581" />
+    <state x="355" y="330" width="672" height="678" key="search.everywhere.popup" timestamp="1605739170658">
+      <screen x="0" y="0" width="2498" height="1440" />
+    </state>
+    <state x="355" y="330" width="672" height="678" key="search.everywhere.popup/0.0.2498.1440/-1280.1135.1280.1024@0.0.2498.1440" timestamp="1605739170658" />
   </component>
 </project>
