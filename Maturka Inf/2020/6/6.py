@@ -122,12 +122,17 @@ def fifth():
     biggest = float("-inf")
     biggest_date = ""
     smallest = float("inf")
-    for line in lines:
-        line = line.split("\t")
+    for index in range(len(lines)):
+        line = lines[index].split("\t")
         money += int(line[5]) * int(line[4]) if line[3] == "W" else  -(int(line[5]) * int(line[4]))
-        if biggest < money:
-            biggest = money
-            biggest_date = line[0]
+        if index != len(lines):
+            if biggest < money and line[0] != lines[index + 1].split("\t")[0]:
+                biggest = money
+                biggest_date = line[0]
+        if index == len(lines):
+            if biggest < money and line[0]:
+                biggest = money
+                biggest_date = line[0]
         smallest = money if smallest > money else smallest
     print("6.5:\n Biggest amount " + biggest_date+":",biggest,"\n Last day:",money,"\n Minimal:",500000 - smallest)
 

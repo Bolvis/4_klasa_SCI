@@ -9,6 +9,6 @@
  Biggest for 2018-08-05 is T5 ( 125 )
  Smallest for 2018-08-05 is T1 ( 3 )
 6.5:
- Biggest amount 2018-11-24: 552335 
+ Biggest amount 2018-10-08: 550079 
  Last day: 545844 
  Minimal: 6399
