@@ -1,0 +1,48 @@
+body{
+    margin: auto;
+    max-width: 1024px;
+    font-size: 25px;
+}
+
+.baner{
+    height: 200px;
+    width: 1024px;
+    background-color: green;
+    color: red;
+    text-align: center;
+}
+
+.menu1{
+    height: 490px;
+    width: 200px;
+    background-color: dodgerblue;
+    float:left;
+    text-align: center;
+    padding-top: 10px;
+}
+.text{
+    width: 724px;
+    height: 490px;
+    padding-top: 10px;
+    color: hotpink;
+    float:left;
+}
+.naglowek{
+    text-align: center;
+}
+.menu2{
+    height: 500px;
+    width: 100px;
+    background-color: red;
+    float:left;
+    text-align: center;
+    font-size: 26px;
+}
+
+footer{
+    height: 100px;
+    width: 1024px;
+    background-color: orange;
+    text-align: center;
+    clear: both;
+}

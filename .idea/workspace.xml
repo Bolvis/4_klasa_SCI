@@ -19,7 +19,24 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="917d89a7-99df-4285-9b11-dee498dbd3a5" name="Default Changelist" comment="" />
+    <list default="true" id="917d89a7-99df-4285-9b11-dee498dbd3a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/WIA/php10/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php10/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WIA/php 9/grafiki/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php9/grafiki/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WIA/php 9/grafiki/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php9/grafiki/10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WIA/php 9/grafiki/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php9/grafiki/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WIA/php 9/grafiki/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php9/grafiki/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WIA/php 9/grafiki/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php9/grafiki/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WIA/php 9/grafiki/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php9/grafiki/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WIA/php 9/grafiki/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php9/grafiki/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WIA/php 9/grafiki/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php9/grafiki/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WIA/php 9/grafiki/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php9/grafiki/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WIA/php 9/grafiki/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php9/grafiki/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WIA/php 9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php9/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WIA/php 9/zadanie.php" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php9/zadanie.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WIA/php8/formatowanie.css" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php8/formatowanie.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,8 +48,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -52,6 +69,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/WIA/php5" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -81,6 +99,7 @@
       <workItem from="1605181283433" duration="109000" />
       <workItem from="1605704748394" duration="102000" />
       <workItem from="1605736127649" duration="5164000" />
+      <workItem from="1605899832851" duration="5300000" />
     </task>
     <servers />
   </component>
@@ -115,10 +134,10 @@
       <screen x="0" y="0" width="2498" height="1440" />
     </state>
     <state x="356" y="471" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2498.1440/-1280.1135.1280.1024@0.0.2498.1440" timestamp="1604320079770" />
-    <state x="1134" y="686" key="NewPhpFileDialog" timestamp="1605736204581">
+    <state x="1134" y="686" key="NewPhpFileDialog" timestamp="1605899863468">
       <screen x="0" y="0" width="2498" height="1440" />
     </state>
-    <state x="1134" y="686" key="NewPhpFileDialog/0.0.2498.1440/-1280.1135.1280.1024@0.0.2498.1440" timestamp="1605736204581" />
+    <state x="1134" y="686" key="NewPhpFileDialog/0.0.2498.1440/-1280.1135.1280.1024@0.0.2498.1440" timestamp="1605899863468" />
     <state x="355" y="330" width="672" height="678" key="search.everywhere.popup" timestamp="1605739170658">
       <screen x="0" y="0" width="2498" height="1440" />
     </state>
