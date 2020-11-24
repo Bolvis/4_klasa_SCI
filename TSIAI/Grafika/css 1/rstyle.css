@@ -1,0 +1,43 @@
+.car1 {
+  width: 64px;
+  height: 64px;
+  position: relative;
+  background-image: url("car1.png");
+  animation-name: auto1;
+  animation-duration: 15s;
+  animation-iteration-count: 10; /*infinite*/
+  animation-timing-function: ease;
+}
+@keyframes auto1{
+    0% {left: 0px}
+    20% {left: 50px}
+    40% {left: 100px}
+    60% {left: 200px}
+    80% {left: 350px}
+	100% {left: 500px}
+}
+@keyframes auto2{
+    0% {left: 0px}
+    20% {left: 50px}
+    40% {left: 80px}
+    60% {left: 210px}
+    80% {left: 400px}
+    100% {left: 480px}
+}
+
+.car2 {
+    width: 64px;
+    height: 64px;
+    position: relative;
+    background-image: url("car2.png");
+    animation-name: auto2;
+    animation-duration: 15s;
+    animation-iteration-count: 10; /*infinite*/
+    animation-timing-function: ease;
+  
+}
+
+.p1{
+	color: black;
+	position:relative
+}
