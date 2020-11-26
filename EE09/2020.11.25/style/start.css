@@ -1,0 +1,19 @@
+.container{
+    color: yellow;
+    width: 724px;
+    height: 100%;
+    background-image: url("../grafika/tlostart.jpg");
+    background-size: cover;
+    float: left;
+}
+
+h1{
+    text-align: center;
+    letter-spacing: 20px;
+    font-size: 30px;
+}
+
+.tekst{
+    text-align: justify;
+    font-size: 15px;
+}

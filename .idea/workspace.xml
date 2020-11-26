@@ -19,7 +19,38 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="917d89a7-99df-4285-9b11-dee498dbd3a5" name="Default Changelist" comment="" />
+    <list default="true" id="917d89a7-99df-4285-9b11-dee498dbd3a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/EGZAMIN/baza/egzamin_ee09.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGZAMIN/baza/kierownik.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGZAMIN/baza/magazyn.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGZAMIN/baza/magazynier.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGZAMIN/galeria.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGZAMIN/grafika/gwiazda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGZAMIN/grafika/gwiazdabaner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGZAMIN/grafika/gwiazdabaner.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGZAMIN/grafika/gwiazdy1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGZAMIN/grafika/gwiazdy10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGZAMIN/grafika/gwiazdy11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGZAMIN/grafika/gwiazdy2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGZAMIN/grafika/gwiazdy3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGZAMIN/grafika/gwiazdy4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGZAMIN/grafika/gwiazdy5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGZAMIN/grafika/gwiazdy6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGZAMIN/grafika/gwiazdy7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGZAMIN/grafika/gwiazdy8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGZAMIN/grafika/gwiazdy9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGZAMIN/grafika/tlostart.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGZAMIN/grafika/tlostrony.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGZAMIN/opis_gwiazdy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGZAMIN/przeglądarka.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGZAMIN/start.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGZAMIN/strona.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGZAMIN/style/galeria.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGZAMIN/style/start.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGZAMIN/style/strona.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,6 +114,10 @@
       <workItem from="1605704748394" duration="102000" />
       <workItem from="1605736127649" duration="5164000" />
       <workItem from="1605899832851" duration="5493000" />
+      <workItem from="1606312610243" duration="531000" />
+      <workItem from="1606342349138" duration="58000" />
+      <workItem from="1606343257216" duration="1925000" />
+      <workItem from="1606350170828" duration="367000" />
     </task>
     <servers />
   </component>
