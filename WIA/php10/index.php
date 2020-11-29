@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>PHP 10</title>
+    <title>PHasdP 10</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
