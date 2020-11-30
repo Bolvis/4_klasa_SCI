@@ -20,165 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="917d89a7-99df-4285-9b11-dee498dbd3a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/4-klasa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/4-klasa.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php11.7z" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php11/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php11/kontakt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php11/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php11/tabela.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA/php11/tabela.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/baza/egzamin_ee09.sql" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/baza/egzamin_ee09.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/baza/kierownik.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/baza/kierownik.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/baza/magazyn.php" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/baza/magazyn.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/baza/magazynier.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/baza/magazynier.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/baza/rejestr.php" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/baza/rejestr.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/galeria.html" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/galeria.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/grafika/gwiazda.png" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/grafika/gwiazda.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/grafika/gwiazdabaner.png" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/grafika/gwiazdabaner.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/grafika/gwiazdabaner.svg" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/grafika/gwiazdabaner.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/grafika/gwiazdy1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/grafika/gwiazdy1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/grafika/gwiazdy10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/grafika/gwiazdy10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/grafika/gwiazdy11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/grafika/gwiazdy11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/grafika/gwiazdy2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/grafika/gwiazdy2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/grafika/gwiazdy3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/grafika/gwiazdy3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/grafika/gwiazdy4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/grafika/gwiazdy4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/grafika/gwiazdy5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/grafika/gwiazdy5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/grafika/gwiazdy6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/grafika/gwiazdy6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/grafika/gwiazdy7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/grafika/gwiazdy7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/grafika/gwiazdy8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/grafika/gwiazdy8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/grafika/gwiazdy9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/grafika/gwiazdy9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/grafika/tlostart.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/grafika/tlostart.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/grafika/tlostrony.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/grafika/tlostrony.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/opis_gwiazdy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/opis_gwiazdy.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/przeglądarka.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/przeglądarka.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/start.html" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/start.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/strona.php" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/strona.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/style/galeria.css" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/style/galeria.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/style/start.css" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/style/start.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EE09/2020.11.25/style/strona.css" beforeDir="false" afterPath="$PROJECT_DIR$/EE09/2020.11.25/style/strona.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maturka Inf/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Maturka Inf/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maturka Inf/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/Maturka Inf/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maturka Inf/.idea/Maturka Inf.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Maturka Inf/.idea/Maturka Inf.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maturka Inf/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Maturka Inf/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maturka Inf/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Maturka Inf/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maturka Inf/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Maturka Inf/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maturka Inf/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Maturka Inf/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maturka Inf/2020/4/4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Maturka Inf/2020/4/4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maturka Inf/2020/4/wyniki4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Maturka Inf/2020/4/wyniki4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maturka Inf/2020/6/6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Maturka Inf/2020/6/6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maturka Inf/2020/6/Zadanie 64.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Maturka Inf/2020/6/Zadanie 64.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maturka Inf/2020/6/wyniki6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Maturka Inf/2020/6/wyniki6.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maturka Inf/2020/Dane_PR2/jezyki.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Maturka Inf/2020/Dane_PR2/jezyki.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maturka Inf/2020/Dane_PR2/odp_przyklad.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Maturka Inf/2020/Dane_PR2/odp_przyklad.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maturka Inf/2020/Dane_PR2/panstwa.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Maturka Inf/2020/Dane_PR2/panstwa.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maturka Inf/2020/Dane_PR2/pary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Maturka Inf/2020/Dane_PR2/pary.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maturka Inf/2020/Dane_PR2/przyklad.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Maturka Inf/2020/Dane_PR2/przyklad.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maturka Inf/2020/Dane_PR2/statek.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Maturka Inf/2020/Dane_PR2/statek.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maturka Inf/2020/Dane_PR2/uzytkownicy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Maturka Inf/2020/Dane_PR2/uzytkownicy.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PBD/1/Kurierzy1.accdb" beforeDir="false" afterPath="$PROJECT_DIR$/PBD/1/Kurierzy1.accdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PBD/2/acces2.accdb" beforeDir="false" afterPath="$PROJECT_DIR$/PBD/2/acces2.accdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PBD/3/pbd3.accdb" beforeDir="false" afterPath="$PROJECT_DIR$/PBD/3/pbd3.accdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PBD/4/pbd_access_4a.accdb" beforeDir="false" afterPath="$PROJECT_DIR$/PBD/4/pbd_access_4a.accdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PBD/4/pbd_access_4b.accdb" beforeDir="false" afterPath="$PROJECT_DIR$/PBD/4/pbd_access_4b.accdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PBD/5/pbd_access_5.accdb" beforeDir="false" afterPath="$PROJECT_DIR$/PBD/5/pbd_access_5.accdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PBD/6/pbd_access_6.accdb" beforeDir="false" afterPath="$PROJECT_DIR$/PBD/6/pbd_access_6.accdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PBD/7/pbd_access_7.accdb" beforeDir="false" afterPath="$PROJECT_DIR$/PBD/7/pbd_access_7.accdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PBD/blog podróżniczy (mySql)/blog_adventures.sql" beforeDir="false" afterPath="$PROJECT_DIR$/PBD/blog podróżniczy (mySql)/blog_adventures.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SBD/sbd 10/sbd10.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/SBD/sbd 10/sbd10.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SBD/sbd 10/sbd10.sql" beforeDir="false" afterPath="$PROJECT_DIR$/SBD/sbd 10/sbd10.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SBD/sbd 10/sbd10_dane.sql" beforeDir="false" afterPath="$PROJECT_DIR$/SBD/sbd 10/sbd10_dane.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SBD/sbd 10/sbd10_inne.sql" beforeDir="false" afterPath="$PROJECT_DIR$/SBD/sbd 10/sbd10_inne.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SBD/sbd 10/sbd10_koszty.sql" beforeDir="false" afterPath="$PROJECT_DIR$/SBD/sbd 10/sbd10_koszty.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SBD/sbd 11/SBD11.sql" beforeDir="false" afterPath="$PROJECT_DIR$/SBD/sbd 11/SBD11.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SBD/sbd 5/1.php" beforeDir="false" afterPath="$PROJECT_DIR$/SBD/sbd 5/1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SBD/sbd 5/2.php" beforeDir="false" afterPath="$PROJECT_DIR$/SBD/sbd 5/2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SBD/sbd 5/3.php" beforeDir="false" afterPath="$PROJECT_DIR$/SBD/sbd 5/3.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SBD/sbd 5/4.php" beforeDir="false" afterPath="$PROJECT_DIR$/SBD/sbd 5/4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SBD/sbd 5/5.php" beforeDir="false" afterPath="$PROJECT_DIR$/SBD/sbd 5/5.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SBD/sbd 5/6+/form.php" beforeDir="false" afterPath="$PROJECT_DIR$/SBD/sbd 5/6+/form.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SBD/sbd 5/6+/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/SBD/sbd 5/6+/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SBD/sbd 7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/SBD/sbd 7/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SBD/sbd 7/kwerendy.php" beforeDir="false" afterPath="$PROJECT_DIR$/SBD/sbd 7/kwerendy.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SBD/sbd 7/loadData.php" beforeDir="false" afterPath="$PROJECT_DIR$/SBD/sbd 7/loadData.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SBD/sbd 7/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/SBD/sbd 7/login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SBD/sbd 7/osoby.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SBD/sbd 7/osoby.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SBD/sbd 8/sbd 8.odt" beforeDir="false" afterPath="$PROJECT_DIR$/SBD/sbd 8/sbd 8.odt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SBD/sbd 8/sbd 8.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/SBD/sbd 8/sbd 8.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SBD/sdb 9/image.png" beforeDir="false" afterPath="$PROJECT_DIR$/SBD/sdb 9/image.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SBD/sdb 9/wyzwalacze2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/SBD/sdb 9/wyzwalacze2.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/Grafika/InkScape1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/Grafika/InkScape1.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/Grafika/css 1/car1.png" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/Grafika/css 1/car1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/Grafika/css 1/car2.png" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/Grafika/css 1/car2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/Grafika/css 1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/Grafika/css 1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/Grafika/css 1/rstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/Grafika/css 1/rstyle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/Grafika/gimp3/Gimp 3.docx" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/Grafika/gimp3/Gimp 3.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/Grafika/gimp3/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/Grafika/gimp3/Thumbs.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/Grafika/gimp3/filizanka.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/Grafika/gimp3/filizanka.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/Grafika/gimp3/listek.png" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/Grafika/gimp3/listek.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/Grafika/gimp3/listek2.png" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/Grafika/gimp3/listek2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/Grafika/gimp3/script-mt-bold.zip" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/Grafika/gimp3/script-mt-bold.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/Grafika/gimp3/wstazka.png" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/Grafika/gimp3/wstazka.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/Grafika/gimp3/~$Gimp 5.docx" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/Grafika/gimp3/~$Gimp 5.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/Grafika/gimp4/container-3284432_1920.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/Grafika/gimp4/container-3284432_1920.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/Grafika/gimp4/gimp4.docx" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/Grafika/gimp4/gimp4.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/Grafika/gimp4/room-1336497_1920.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/Grafika/gimp4/room-1336497_1920.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/Grafika/gimp4/telescope-498317_1920.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/Grafika/gimp4/telescope-498317_1920.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/Grafika/inkscape2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/Grafika/inkscape2.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/Grafika/inkscape3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/Grafika/inkscape3.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/JS/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/JS/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/JS/1/tabliczka.js" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/JS/1/tabliczka.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/JS/2/dzielenie.js" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/JS/2/dzielenie.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/JS/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/JS/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/JS/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/JS/3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/JS/3/kwadratowe.js" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/JS/3/kwadratowe.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/JS/6/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/JS/6/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/JS/6/.idea/6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/JS/6/.idea/6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/JS/6/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/JS/6/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/JS/6/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/JS/6/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/JS/6/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/JS/6/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/JS/6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/JS/6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/JS/6/znaki.html" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/JS/6/znaki.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSIAI/JS/6/znaki.js" beforeDir="false" afterPath="$PROJECT_DIR$/TSIAI/JS/6/znaki.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/.idea/WIA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/.idea/WIA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php10/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php10/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php10/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php10/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php4/zadanie nr 4.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php4/zadanie nr 4.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php5/zadanie nr 5.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php5/zadanie nr 5.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php6/1.php" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php6/1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php6/2.php" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php6/2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php6/3.php" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php6/3.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php6/4.php" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php6/4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php6/imiona.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php6/imiona.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php6/imiona_czyste.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php6/imiona_czyste.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php7/createCatalogs.php" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php7/createCatalogs.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php7/createFile.php" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php7/createFile.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php7/deleteFile.php" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php7/deleteFile.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php7/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php7/ls.php" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php7/ls.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php7/rename.php" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php7/rename.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php7/saveToFile.php" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php7/saveToFile.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php8/formatowanie.css" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php8/formatowanie.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php8/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php8/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php8/naglowek.php" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php8/naglowek.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php8/sci.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php8/sci.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php8/stopka.php" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php8/stopka.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php8/tresc.php" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php8/tresc.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php9/grafiki/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php9/grafiki/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php9/grafiki/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php9/grafiki/10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php9/grafiki/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php9/grafiki/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php9/grafiki/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php9/grafiki/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php9/grafiki/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php9/grafiki/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php9/grafiki/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php9/grafiki/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php9/grafiki/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php9/grafiki/6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php9/grafiki/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php9/grafiki/7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php9/grafiki/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php9/grafiki/8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php9/grafiki/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php9/grafiki/9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php9/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WIA/php9/zadanie.php" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/php9/zadanie.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -248,6 +96,7 @@
       <workItem from="1606343257216" duration="1925000" />
       <workItem from="1606350170828" duration="367000" />
       <workItem from="1606655735415" duration="84000" />
+      <workItem from="1606766047246" duration="2617000" />
     </task>
     <servers />
   </component>

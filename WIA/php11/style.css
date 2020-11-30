@@ -1,0 +1,32 @@
+body{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.baner{
+    background-color: orange;
+    width: 1200px;
+    height: 300px;
+}
+
+.tresc{
+    background-color: azure;
+    height: 600px;
+    width: 900px;
+    float: left;
+    border: 0;
+}
+
+.menu{
+    background-color: aqua;
+    height: 600px;
+    width: 300px;
+    float: left;
+}
+
+footer{
+    background-color: yellow;
+    width: 1200px;
+    height: 200px;
+    clear: both;
+}

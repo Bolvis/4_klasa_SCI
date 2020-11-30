@@ -1,0 +1,26 @@
+table{
+    border: 1px solid black;
+}
+
+td{
+    border: 1px solid black;
+    height: 100px;
+    font-size: 25px;
+}
+
+.row1{
+    background-color: yellow;
+    font-weight: bold;
+    text-align: center;
+}
+
+.razem{
+    text-align: center;
+    background-color: purple;
+    font-weight: bold;
+}
+
+.money{
+    text-align: right;
+    background-color: aquamarine;
+}
