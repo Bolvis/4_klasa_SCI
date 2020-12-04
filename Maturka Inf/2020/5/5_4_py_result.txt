@@ -1,0 +1,35 @@
+mandarynski	sino-tybetanska	3.1
+tagalog	austronezyjska	1.9
+wietnamski	austroazjatycka	1.5
+nahuatl	uto-aztecka	1.4
+koreanski	jezyk izolowany	1.2
+arabski	afroazjatycka	2.7
+keczua	keczua	0.8
+maya	majanska	0.8
+zapotec	otomang	0.4
+japonski	jezyk izolowany	0.8
+kantonski	sino-tybetanska	0.4
+tseltal	majanska	0.4
+mixtec	otomang	0.4
+tsotsil	majanska	0.3
+thai	dajska	0.2
+khmerski	austroazjatycka	0.2
+hmong	hmong-mien	0.2
+hebrajski	afroazjatycka	0.2
+totonac	jezyk izolowany	0.2
+guarani	tupi	0.2
+otomi	otomang	0.2
+ch'ol	majanska	0.2
+mazatec	otomang	0.2
+navajo	na-dene	0.2
+huastec	majanska	0.1
+chinantec	otomang	0.1
+wegierski	uralska	0.1
+mapuche	jezyk izolowany	0.1
+kri	algijska	0.1
+tamilski	drawidyjska	0.1
+laotanski	dajska	0.1
+mazahua	otomang	0.1
+mixe	jezyk izolowany	0.1
+tlapanec	otomang	0.1
+purepecha	jezyk izolowany	0.1

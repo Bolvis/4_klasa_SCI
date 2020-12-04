@@ -1,0 +1,43 @@
+mandarynski	sino-tybetanska	2,90
+tagalog	austronezyjska	1,60
+wietnamski	austroazjatycka	1,40
+nahuatl	uto-aztecka	1,40
+koreanski	jezyk izolowany	1,10
+arabski	afroazjatycka	1,00
+arabski	afroazjatycka	1,00
+keczua	keczua	0,80
+maya	majanska	0,80
+zapotec	otomang	0,40
+japonski	jezyk izolowany	0,40
+kantonski	sino-tybetanska	0,40
+japonski	jezyk izolowany	0,40
+tseltal	majanska	0,40
+arabski	afroazjatycka	0,40
+mixtec	otomang	0,40
+tagalog	austronezyjska	0,30
+tsotsil	majanska	0,30
+arabski	afroazjatycka	0,30
+mandarynski	sino-tybetanska	0,20
+thai	dajska	0,20
+khmerski	austroazjatycka	0,20
+hmong	hmong-mien	0,20
+hebrajski	afroazjatycka	0,20
+totonac	jezyk izolowany	0,20
+guarani	tupi	0,20
+otomi	otomang	0,20
+ch'ol	majanska	0,20
+mazatec	otomang	0,20
+navajo	na-dene	0,20
+wietnamski	austroazjatycka	0,10
+huastec	majanska	0,10
+chinantec	otomang	0,10
+wegierski	uralska	0,10
+mapuche	jezyk izolowany	0,10
+kri	algijska	0,10
+tamilski	drawidyjska	0,10
+laotanski	dajska	0,10
+mazahua	otomang	0,10
+mixe	jezyk izolowany	0,10
+tlapanec	otomang	0,10
+purepecha	jezyk izolowany	0,10
+koreanski	jezyk izolowany	0,10
