@@ -1,4 +1,4 @@
-file = open("./../Dane_PR2/statek.txt")
+file = open("../Dane_PR2/statek.txt")
 text = file.read()
 lines = text.split("\n")
 lines.remove("")

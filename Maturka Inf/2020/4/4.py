@@ -1,8 +1,9 @@
 primeNums = [3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97]
-file = open("./../Dane_PR2/pary.txt")
+file = open("../Dane_PR2/pary.txt")
 wholeText = file.read()
 pairs = wholeText.split("\n")
 pairs.remove("")
+
 
 def goldbach(number):
     prime_one = 0
@@ -27,7 +28,7 @@ def calc_letters(int_and_str):
     count = 1
     temp_count = 1
     index = 0
-    for i in range(len(word)-1):
+    for i in range(len(word) - 1):
         if word[i] == word[i + 1]:
             temp_count += 1
         else:
@@ -49,6 +50,7 @@ def smallest():
         if int(item[0]) < int(result[0]) or (int(item[0]) == int(result[0]) and item[1] < result[1]):
             result = item
     print(f"{result[0]} {result[1]}")
+
 
 print("\n\t4.1 \n")
 for pair in pairs:
