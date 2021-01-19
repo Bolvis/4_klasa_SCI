@@ -1,0 +1,67 @@
+body{
+	background-color:Crimson;	
+	font-family:Tahoma;
+}
+#baner{
+	color:white;
+	text-align:center;
+	height:370px;
+
+	
+}
+.wynik{
+	color:white;
+	text-align:center;
+	width:200px;	
+	margin:10px;
+	border:1px solid black;
+	border-radius:10px;
+	float:left;	
+	
+}
+.wynik:hover{
+	border:1px solid white;	
+
+}
+
+#glowny{
+	background-color:WhiteSmoke;
+	height:50px;
+	clear:both;
+}
+#lewy{
+	background-color:WhiteSmoke;
+	width:70%;
+	height:230px;
+	float:left;	
+}
+#prawy{
+	background-color:WhiteSmoke;
+	width:30%;
+	height:230px;
+	text-align:right;
+	float:left;	
+}
+h2{
+	text-align:center;
+	letter-spacing: 7px;
+	text-transform:capitalize;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

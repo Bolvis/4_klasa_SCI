@@ -1,0 +1,6 @@
+kw1: SELECT zespol1, zespol2, wynik, data_rozgrywki FROM rozgrywa 
+WHERE zespol1 LIKE "EVG"
+kw2: SELECT imie, nazwisko FROM zawodnik INNER JOIN pozycja ON  zawodnik.pozycja_id=pozycja.id WHERE pozycja.id=3
+SELECT imie, nazwisko FROM zawodnik WHERE zawodnik.pozycja_id=3
+kw3: SELECT zawodnik.id, zawodnik.nazwisko, pozycja.nazwa FROM zawodnik INNER JOIN pozycja ON zawodnik.pozycja_id=pozycja.id WHERE zawodnik.id=1 OR zawodnik.id=2 OR zawodnik.id=3
+kw4: DROP TABLE liga
