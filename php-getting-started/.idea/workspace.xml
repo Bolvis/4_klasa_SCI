@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2ad89f4-5eb0-4ecb-b73e-66200e5e97e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1o12JdSrl5KgXOECRerRCkxonRy" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2ad89f4-5eb0-4ecb-b73e-66200e5e97e0" name="Default Changelist" comment="" />
+      <created>1612439707230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612439707230</updated>
+      <workItem from="1612439708864" duration="653000" />
+      <workItem from="1612440569392" duration="2868000" />
+    </task>
+    <task id="LOCAL-00001" summary="Done">
+      <created>1612442685649</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612442685649</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Done">
+      <created>1612442782120</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612442782120</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Done">
+      <created>1612442838993</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612442838993</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="674" y="77" key="CommitChangelistDialog2" timestamp="1612442838641">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="674" y="77" key="CommitChangelistDialog2/-1280.1136.1280.954/3840.1260.1600.900/0.0.2194.1194@0.0.2194.1194" timestamp="1612442838641" />
+    <state x="690" y="326" key="Vcs.Push.Dialog.v2" timestamp="1612442695129">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="690" y="326" key="Vcs.Push.Dialog.v2/-1280.1136.1280.954/3840.1260.1600.900/0.0.2194.1194@0.0.2194.1194" timestamp="1612442695129" />
+    <state x="914" y="507" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612442668763">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="914" y="507" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1280.1136.1280.954/3840.1260.1600.900/0.0.2194.1194@0.0.2194.1194" timestamp="1612442668763" />
+  </component>
+</project>
