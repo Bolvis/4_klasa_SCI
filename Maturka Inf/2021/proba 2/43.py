@@ -12,7 +12,7 @@ for line in lines:
     sizes = []
     for i in range(2, len(items) - 1, 2):
         size = int(items[i]) * int(items[i+1])
-        if not sizes.__contains__(size) and size != 0:
+        if size not in sizes and size != 0:
             sizes.append(size)
     if len(sizes) > biggest:
         biggest = len(sizes)
