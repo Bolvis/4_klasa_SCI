@@ -20,7 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="917d89a7-99df-4285-9b11-dee498dbd3a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Maturka Inf/2021/proba 2/43.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maturka Inf/2021/proba 2/galerie.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maturka Inf/2021/proba 2/galerie_przyklad.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/4-klasa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/4-klasa.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WIA/.idea/WIA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/.idea/WIA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WIA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WIA/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,12 +42,14 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="08fb1a1f-4f06-42f1-8519-165c831041b7" />
   <component name="ProjectId" id="1jhpihCtAyuaAtxxDGu8Z9dH8bK" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -55,35 +64,37 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/GTK" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Maturka Inf/2021/proba 2/43.py" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\dawid\Desktop\4-klasa\WIA\php5" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dawid\Desktop\xampp\4-klasa\Maturka Inf\2021\proba 2" />
       <recent name="C:\Users\dawid\Desktop\4-klasa\WIA\php8" />
       <recent name="C:\Users\dawid\Desktop\4-klasa\SBD\zadanie 7" />
       <recent name="C:\Users\dawid\Desktop\4-klasa\SBD" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dawid\Desktop\4-klasa\WIA\php5" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration name="6" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="43" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="4-klasa" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="/usr/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Maturka Inf/2020/6" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Maturka Inf/2021/proba 2" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Maturka Inf/2020/6/6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Maturka Inf/2021/proba 2/43.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,6 +130,7 @@
       <workItem from="1610342111638" duration="22000" />
       <workItem from="1611134208694" duration="23000" />
       <workItem from="1611142628108" duration="28000" />
+      <workItem from="1616585094540" duration="957000" />
     </task>
     <servers />
   </component>
@@ -140,8 +152,39 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="283" width="1097" height="736" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616585715552">
+      <screen x="0" y="40" width="2194" height="1194" />
+    </state>
+    <state x="548" y="283" width="1097" height="736" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1280.1206.1280.954/3840.1260.1600.900/0.40.2194.1194@0.40.2194.1194" timestamp="1616585715552" />
+    <state x="824" y="333" key="FileChooserDialogImpl" timestamp="1616585713926">
+      <screen x="0" y="40" width="2194" height="1194" />
+    </state>
+    <state x="824" y="333" key="FileChooserDialogImpl/-1280.1206.1280.954/3840.1260.1600.900/0.40.2194.1194@0.40.2194.1194" timestamp="1616585713926" />
+    <state width="2139" height="318" key="GridCell.Tab.0.bottom" timestamp="1616586051474">
+      <screen x="0" y="40" width="2194" height="1194" />
+    </state>
+    <state width="2139" height="318" key="GridCell.Tab.0.bottom/-1280.1206.1280.954/3840.1260.1600.900/0.40.2194.1194@0.40.2194.1194" timestamp="1616586051474" />
+    <state width="2139" height="318" key="GridCell.Tab.0.center" timestamp="1616586051474">
+      <screen x="0" y="40" width="2194" height="1194" />
+    </state>
+    <state width="2139" height="318" key="GridCell.Tab.0.center/-1280.1206.1280.954/3840.1260.1600.900/0.40.2194.1194@0.40.2194.1194" timestamp="1616586051474" />
+    <state width="2139" height="318" key="GridCell.Tab.0.left" timestamp="1616586051474">
+      <screen x="0" y="40" width="2194" height="1194" />
+    </state>
+    <state width="2139" height="318" key="GridCell.Tab.0.left/-1280.1206.1280.954/3840.1260.1600.900/0.40.2194.1194@0.40.2194.1194" timestamp="1616586051474" />
+    <state width="2139" height="318" key="GridCell.Tab.0.right" timestamp="1616586051474">
+      <screen x="0" y="40" width="2194" height="1194" />
+    </state>
+    <state width="2139" height="318" key="GridCell.Tab.0.right/-1280.1206.1280.954/3840.1260.1600.900/0.40.2194.1194@0.40.2194.1194" timestamp="1616586051474" />
+    <state x="489" y="196" key="SettingsEditor" timestamp="1616585124811">
+      <screen x="0" y="40" width="2194" height="1194" />
+    </state>
+    <state x="489" y="196" key="SettingsEditor/-1280.1206.1280.954/3840.1260.1600.900/0.40.2194.1194@0.40.2194.1194" timestamp="1616585124811" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/kwadratowe_js$6.coverage" NAME="6 Coverage Results" MODIFIED="1610342126874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Maturka Inf/2020/6" />
+    <SUITE FILE_PATH="coverage/kwadratowe_js$43.coverage" NAME="43 Coverage Results" MODIFIED="1616586051469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Maturka Inf/2021/proba 2" />
     <SUITE FILE_PATH="coverage/kwadratowe_js$4.coverage" NAME="6 Coverage Results" MODIFIED="1610254899842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Maturka Inf/2020/6" />
+    <SUITE FILE_PATH="coverage/kwadratowe_js$6.coverage" NAME="6 Coverage Results" MODIFIED="1610342126874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Maturka Inf/2020/6" />
   </component>
 </project>

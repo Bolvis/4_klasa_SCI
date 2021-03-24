@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b61197fa-6da4-426c-b5f0-8aa9f4bdbfd8" name="Default Changelist" comment="" />
+    <list default="true" id="b61197fa-6da4-426c-b5f0-8aa9f4bdbfd8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/WIA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WIA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +34,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="JupyterTrust" id="08fb1a1f-4f06-42f1-8519-165c831041b7" />
   <component name="ProjectId" id="1jhgNKfjk8sxgi5JPiw01jxzJPR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -41,6 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -58,6 +63,8 @@
       <updated>1604261696375</updated>
       <workItem from="1604261697656" duration="4590000" />
       <workItem from="1604266300675" duration="6000" />
+      <workItem from="1616143933869" duration="15000" />
+      <workItem from="1616585066801" duration="26000" />
     </task>
     <servers />
   </component>
@@ -77,13 +84,13 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1079" y="517" key="FileChooserDialogImpl" timestamp="1604266305220">
-      <screen x="0" y="0" width="2498" height="1440" />
+    <state x="825" y="333" key="FileChooserDialogImpl" timestamp="1616585091606">
+      <screen x="0" y="40" width="2194" height="1194" />
     </state>
-    <state x="1079" y="517" key="FileChooserDialogImpl/0.0.2498.1440/-1280.1135.1280.1024@0.0.2498.1440" timestamp="1604266305220" />
-    <state x="461" y="644" key="NewPhpFileDialog" timestamp="1604265266757">
-      <screen x="0" y="0" width="2498" height="1440" />
+    <state x="825" y="333" key="FileChooserDialogImpl/-1280.1206.1280.954/3840.1260.1600.900/0.40.2194.1194@0.40.2194.1194" timestamp="1616585091606" />
+    <state x="489" y="196" key="SettingsEditor" timestamp="1616585082171">
+      <screen x="0" y="40" width="2194" height="1194" />
     </state>
-    <state x="461" y="644" key="NewPhpFileDialog/0.0.2498.1440/-1280.1135.1280.1024@0.0.2498.1440" timestamp="1604265266757" />
+    <state x="489" y="196" key="SettingsEditor/-1280.1206.1280.954/3840.1260.1600.900/0.40.2194.1194@0.40.2194.1194" timestamp="1616585082171" />
   </component>
 </project>
