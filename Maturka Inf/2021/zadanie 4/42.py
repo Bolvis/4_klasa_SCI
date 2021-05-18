@@ -1,19 +1,19 @@
-file = open("znajomi_1.txt")
+file = open("znajomi_2.txt")
 text = file.read()
 lines = text.split("\n")
-if lines.__contains__(""):
+if "" in lines:
     lines.remove("")
 persons = [i for i in range(0, int(lines[0]))]
 
 for i in range(1, len(lines)):
     line = lines[i].split(" ")
-    if line.__contains__(""):
+    if "" in line:
         line.remove("")
     for j in range(1, len(line)):
-        if persons.__contains__(int(line[j])):
+        if int(line[j]) in persons:
             persons.remove(int(line[j]))
 
-if 0 < persons.__sizeof__():
+if 0 < len(persons):
     for person in persons:
         print(person, end=" ")
 else:

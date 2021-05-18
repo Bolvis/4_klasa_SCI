@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="917d89a7-99df-4285-9b11-dee498dbd3a5" name="Default Changelist" comment="zadanie 4.3 z drugiej matury próbnej">
+      <change beforePath="$PROJECT_DIR$/.idea/4-klasa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/4-klasa.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maturka Inf/2021/proba 2/43.py" beforeDir="false" afterPath="$PROJECT_DIR$/Maturka Inf/2021/proba 2/43.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maturka Inf/2021/zadanie 4/42.py" beforeDir="false" afterPath="$PROJECT_DIR$/Maturka Inf/2021/zadanie 4/42.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +59,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Maturka Inf/2021/proba 2/43.py" />
@@ -73,7 +78,29 @@
       <recent name="C:\Users\dawid\Desktop\4-klasa\WIA\php5" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.42">
+    <configuration name="42" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="4-klasa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Maturka Inf/2021/zadanie 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Maturka Inf/2021/zadanie 4/42.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="43" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="4-klasa" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,6 +123,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.42" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -124,6 +156,8 @@
       <workItem from="1611134208694" duration="23000" />
       <workItem from="1611142628108" duration="28000" />
       <workItem from="1616585094540" duration="4070000" />
+      <workItem from="1621148385989" duration="161000" />
+      <workItem from="1621367476695" duration="127000" />
     </task>
     <task id="LOCAL-00001" summary="zadanie 4.3 z drugiej matury próbnej">
       <created>1616586221442</created>
@@ -155,59 +189,10 @@
     <MESSAGE value="zadanie 4.3 z drugiej matury próbnej" />
     <option name="LAST_COMMIT_MESSAGE" value="zadanie 4.3 z drugiej matury próbnej" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="548" y="283" width="1097" height="736" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616585715552">
-      <screen x="0" y="40" width="2194" height="1194" />
-    </state>
-    <state x="548" y="283" width="1097" height="736" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1280.1206.1280.954/3840.1260.1600.900/0.40.2194.1194@0.40.2194.1194" timestamp="1616585715552" />
-    <state x="824" y="333" key="FileChooserDialogImpl" timestamp="1616585713926">
-      <screen x="0" y="40" width="2194" height="1194" />
-    </state>
-    <state x="824" y="333" key="FileChooserDialogImpl/-1280.1206.1280.954/3840.1260.1600.900/0.40.2194.1194@0.40.2194.1194" timestamp="1616585713926" />
-    <state width="2139" height="212" key="GridCell.Tab.0.bottom" timestamp="1616596223149">
-      <screen x="0" y="40" width="2194" height="1194" />
-    </state>
-    <state width="2139" height="212" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1616596103354">
-      <screen x="0" y="40" width="2194" height="1194" />
-    </state>
-    <state width="2139" height="212" key="GridCell.Tab.0.bottom.inPresentationMode/-1280.1206.1280.954/3840.1260.1600.900/0.40.2194.1194@0.40.2194.1194" timestamp="1616596103354" />
-    <state width="2139" height="212" key="GridCell.Tab.0.bottom/-1280.1206.1280.954/3840.1260.1600.900/0.40.2194.1194@0.40.2194.1194" timestamp="1616596223149" />
-    <state width="2139" height="212" key="GridCell.Tab.0.center" timestamp="1616596223149">
-      <screen x="0" y="40" width="2194" height="1194" />
-    </state>
-    <state width="2139" height="212" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1616596103354">
-      <screen x="0" y="40" width="2194" height="1194" />
-    </state>
-    <state width="2139" height="212" key="GridCell.Tab.0.center.inPresentationMode/-1280.1206.1280.954/3840.1260.1600.900/0.40.2194.1194@0.40.2194.1194" timestamp="1616596103354" />
-    <state width="2139" height="212" key="GridCell.Tab.0.center/-1280.1206.1280.954/3840.1260.1600.900/0.40.2194.1194@0.40.2194.1194" timestamp="1616596223149" />
-    <state width="2139" height="212" key="GridCell.Tab.0.left" timestamp="1616596223149">
-      <screen x="0" y="40" width="2194" height="1194" />
-    </state>
-    <state width="2139" height="212" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1616596103354">
-      <screen x="0" y="40" width="2194" height="1194" />
-    </state>
-    <state width="2139" height="212" key="GridCell.Tab.0.left.inPresentationMode/-1280.1206.1280.954/3840.1260.1600.900/0.40.2194.1194@0.40.2194.1194" timestamp="1616596103354" />
-    <state width="2139" height="212" key="GridCell.Tab.0.left/-1280.1206.1280.954/3840.1260.1600.900/0.40.2194.1194@0.40.2194.1194" timestamp="1616596223149" />
-    <state width="2139" height="212" key="GridCell.Tab.0.right" timestamp="1616596223149">
-      <screen x="0" y="40" width="2194" height="1194" />
-    </state>
-    <state width="2139" height="212" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1616596103354">
-      <screen x="0" y="40" width="2194" height="1194" />
-    </state>
-    <state width="2139" height="212" key="GridCell.Tab.0.right.inPresentationMode/-1280.1206.1280.954/3840.1260.1600.900/0.40.2194.1194@0.40.2194.1194" timestamp="1616596103354" />
-    <state width="2139" height="212" key="GridCell.Tab.0.right/-1280.1206.1280.954/3840.1260.1600.900/0.40.2194.1194@0.40.2194.1194" timestamp="1616596223149" />
-    <state x="489" y="196" key="SettingsEditor" timestamp="1616585124811">
-      <screen x="0" y="40" width="2194" height="1194" />
-    </state>
-    <state x="489" y="196" key="SettingsEditor/-1280.1206.1280.954/3840.1260.1600.900/0.40.2194.1194@0.40.2194.1194" timestamp="1616585124811" />
-    <state x="590" y="305" key="Vcs.Push.Dialog.v2" timestamp="1616586227273">
-      <screen x="0" y="40" width="2194" height="1194" />
-    </state>
-    <state x="590" y="305" key="Vcs.Push.Dialog.v2/-1280.1206.1280.954/3840.1260.1600.900/0.40.2194.1194@0.40.2194.1194" timestamp="1616586227273" />
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/kwadratowe_js$43.coverage" NAME="43 Coverage Results" MODIFIED="1616596223134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Maturka Inf/2021/proba 2" />
-    <SUITE FILE_PATH="coverage/kwadratowe_js$4.coverage" NAME="6 Coverage Results" MODIFIED="1610254899842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Maturka Inf/2020/6" />
     <SUITE FILE_PATH="coverage/kwadratowe_js$6.coverage" NAME="6 Coverage Results" MODIFIED="1610342126874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Maturka Inf/2020/6" />
+    <SUITE FILE_PATH="coverage/kwadratowe_js$43.coverage" NAME="43 Coverage Results" MODIFIED="1621148488099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Maturka Inf/2021/proba 2" />
+    <SUITE FILE_PATH="coverage/kwadratowe_js$42.coverage" NAME="42 Coverage Results" MODIFIED="1621367597216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Maturka Inf/2021/zadanie 4" />
+    <SUITE FILE_PATH="coverage/kwadratowe_js$4.coverage" NAME="6 Coverage Results" MODIFIED="1610254899842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Maturka Inf/2020/6" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-file = open("galerie_przyklad.txt")
+file = open("galerie.txt")
 text = file.read()
 lines = text.split("\n")
 
